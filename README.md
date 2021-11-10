@@ -1,1 +1,1 @@
-# brainfuck-dentaku
+# Brainf\*ck Dentaku
